@@ -1,3 +1,2 @@
-# hello-world
-example
-edit
+# sfml-test
+testing sfml
